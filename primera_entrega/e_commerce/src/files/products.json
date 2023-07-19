@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"title": "agua",
+		"description": "Rica agua",
+		"code": "agua100",
+		"price": 1,
+		"thumbnails": "imagen",
+		"category": "aguita",
+		"stock": 3
+	},
+	{
+		"id": 3,
+		"title": "coca cola",
+		"description": "Rica coca cola",
+		"code": "coca cola 100",
+		"price": 1000,
+		"thumbnails": "con y sin imagen",
+		"category": "bebidas de fantasia",
+		"stock": 10000
+	}
+]
